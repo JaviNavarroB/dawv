@@ -3,3 +3,4 @@ Apellido :Galvez
 E-Mail: ivangalvezfrs1999@gmail.com
 Equipo de futbol: Real Zaragoza
 Imagen : Avatar_Ivan_Galvez.jpg
+Añado una linea a Ivan_Galvez_info.txt - Javi
